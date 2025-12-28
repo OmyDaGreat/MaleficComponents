@@ -1,7 +1,7 @@
 [versions]
 precompose = "1.6.2"
 dokka = "2.1.0"
-theme = "2.1.2"
+theme = "2.2.0"
 compose = "1.9.3"
 kotlin = "2.3.0"
 kotlinter = "5.3.0"

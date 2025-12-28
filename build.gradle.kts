@@ -60,14 +60,14 @@ kotlin {
     sourceSets {
         val commonMain by getting {
             dependencies {
-                implementation(compose.material3)
-                implementation(libs.malefic.theming)
+                api(compose.material3)
+                api(libs.malefic.theming)
             }
         }
         val jvmMain by getting {
             dependencies {
                 implementation(compose.desktop.common)
-                implementation(libs.precompose)
+                api(libs.precompose)
             }
         }
     }
