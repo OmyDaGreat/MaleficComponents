@@ -44,3 +44,4 @@ bin/
 ### Misc ###
 local.properties
 .lastDeploymentsId
+kotlin-js-store

@@ -56,6 +56,10 @@ kotlin {
     iosArm64()
     iosSimulatorArm64()
 
+    js {
+        nodejs()
+    }
+
     @Suppress("unused")
     sourceSets {
         val commonMain by getting {
