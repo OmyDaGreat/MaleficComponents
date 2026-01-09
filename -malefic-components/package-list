@@ -2,7 +2,6 @@ $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:xyz.malefic.compose.comps.box////PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.box/index.html
 $dokka.location:xyz.malefic.compose.comps.box//BackgroundBox/#androidx.compose.ui.Modifier#androidx.compose.ui.Alignment#kotlin.Boolean#kotlin.Function1[androidx.compose.foundation.layout.BoxScope,kotlin.Unit]/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.box/-background-box.html
-$dokka.location:xyz.malefic.compose.comps.box//MaleficBox/#java.io.InputStream#androidx.compose.ui.Modifier#androidx.compose.ui.Alignment#kotlin.Boolean#kotlin.Function1[androidx.compose.foundation.layout.BoxScope,kotlin.Unit]/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.box/-malefic-box.html
 $dokka.location:xyz.malefic.compose.comps.box//MaleficBox/#xyz.malefic.compose.theming.ThemeConfig#androidx.compose.ui.Modifier#androidx.compose.ui.Alignment#kotlin.Boolean#kotlin.Function1[androidx.compose.foundation.layout.BoxScope,kotlin.Unit]/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.box/-malefic-box.html
 $dokka.location:xyz.malefic.compose.comps.box//MaterialBox/#androidx.compose.material3.ColorScheme#androidx.compose.ui.Modifier#androidx.compose.ui.Alignment#kotlin.Boolean#kotlin.Function1[androidx.compose.foundation.layout.BoxScope,kotlin.Unit]/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.box/-material-box.html
 $dokka.location:xyz.malefic.compose.comps.input////PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.input/index.html
@@ -32,7 +31,6 @@ $dokka.location:xyz.malefic.compose.comps.text/TypographySize/valueOf/#kotlin.St
 $dokka.location:xyz.malefic.compose.comps.text/TypographySize/values/#/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps.text/-typography-size/values.html
 $dokka.location:xyz.malefic.compose.comps////PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps/index.html
 $dokka.location:xyz.malefic.compose.comps//ExampleUsage/#/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps/-example-usage.html
-$dokka.location:xyz.malefic.compose.comps//JvmInputStreamMaleficBoxExample/#java.io.InputStream/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps/-jvm-input-stream-malefic-box-example.html
 $dokka.location:xyz.malefic.compose.comps//MultiplatformMaleficBoxExample/#xyz.malefic.compose.theming.ThemeConfig/PointingToDeclaration/-malefic-components/xyz.malefic.compose.comps/-multiplatform-malefic-box-example.html
 xyz.malefic.compose.comps
 xyz.malefic.compose.comps.box
